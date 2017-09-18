@@ -1,0 +1,11 @@
+  .DS_Store
+	/www
+	/node_modules
+	/bower_components
+	/.tmp
+	/dist
+	/core
+	README.md
+	/helpers
+	/hooks
+	/resources
